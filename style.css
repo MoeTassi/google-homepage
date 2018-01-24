@@ -1,0 +1,63 @@
+html,body
+{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+img.logo {
+  padding-top:150px;
+  margin-left: 520px;
+}
+
+button {
+  position:relative;
+  top: 390px;
+  left: 530px;
+}
+
+.search-bar {
+  position:relative;
+  top: 295px;
+  left: 350px;
+}
+
+.search-bar input {
+  width: 610px;
+}
+
+div.navbar {
+position:relative;
+left: 1120px;
+}
+
+.navbar {
+  height: 0px;
+  position:relative;
+  left:1000px;
+}
+
+div.footer {
+  position:relative;
+  top: 600px;
+  left: 10px;
+}
+
+div.footer {
+  border-top: 1px solid black;
+  border-color: #c8d1cc;
+}
+
+a.end-footer{
+  position:relative;
+  left:935px;
+}
+
+a {
+  font-family: arial,sans-serif;
+  font-size: small;
+  color: #666;
+  text-decoration: none;
+}
